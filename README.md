@@ -8,7 +8,7 @@
 
 
 - ### ©️ Configuracion
- Clonar Repo : GokuBot [Aqui.](https://sebasmvp/GokuBot-MD/fork)
+ Clonar Repo : GokuBot [Aqui.](https://Eliasivan/Goku-Bot-MD/fork)
 
 - #### Instalacion Por Termux Automatica🧸
 
@@ -19,7 +19,7 @@ termux-setup-storage
 ```
 
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/sebasmvp/GokuBot-MD/master/goku.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Eliasivan/Goku-Bot-MD/master/goku.sh | bash
 ```
 
 - #### Instalacion Por Termux Manual👨‍💻
@@ -38,7 +38,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/sebasmvp/GokuBot-MD.git && cd GokuBot-MD
+git clone https://github.com/Eliasivan/Goku-Bot-MD.git && cd Goku-Bot-MD
 ```
 
 ```bash
@@ -82,9 +82,9 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 Para que no pierda su progreso en GokuBot, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 
 
-### Editor Y Propietario Del Bot 
+### Propietario Del Bot 
 <a
-href="https://github.com/Jostin207"><img src="https://github.com/Jostin207.png" width="200" height="200" alt="Jostin207"/></a>
+href="https://github.com/Jampier207"><img src="https://github.com/Jampier207.png" width="200" height="200" alt="Jostin207"/></a>
 
-## Colaboradores Del Bot  
+## Colaborador Del Bot  
 [![Creador](https://github.com/Eliasivan.png?size=100)](https://github.com/Eliasivan) 
