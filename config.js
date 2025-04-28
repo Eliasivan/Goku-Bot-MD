@@ -16,9 +16,6 @@ global.owner = [
 ['5491168758497',
 ['18294868853', 'Dioneibi', true]]
 
-global.suittag = ['593992402778']
-global.prems = [];
-
 global.packname = '𝙂𝙤𝙠𝙪𝘽𝙤𝙩-𝙈𝘿 💖🌻';
 global.author = 'Jostin';
 global.wm = 'Goku : Bot 🌹';
