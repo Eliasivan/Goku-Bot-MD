@@ -1,5 +1,5 @@
 
-> 🌹📍Versión Del Bot: 1.0 (beta)
+> 📍Versión Del Bot: 2.0.0
 
 ## Goku : Bot  - MD ✨
 <p align="center">
@@ -84,7 +84,7 @@ Para que no pierda su progreso en GokuBot, estos comandos realizarán un respald
 
 ### Editor Y Propietario Del Bot 
 <a
-href="https://github.com/sebasmvp"><img src="https://github.com/sebasmvp.png" width="200" height="200" alt="Jostin"/></a>
+href="https://github.com/Jostin207"><img src="https://github.com/Jostin207.png" width="200" height="200" alt="Jostin207"/></a>
 
 ## Colaboradores Del Bot  
-[![Creador](https://github.com/sebasmvp.png?size=100)](https://github.com/sebasmvp) 
+[![Creador](https://github.com/Eliasivan.png?size=100)](https://github.com/Eliasivan) 
