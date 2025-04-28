@@ -5,7 +5,6 @@ import path from 'path';
 
 var handler = async (m, { conn, usedPrefix, command }) => {
   try {
-    await m.react('🕒');
     await conn.sendPresenceUpdate('composing', m.chat);
     const pluginsDir = './plugins';
     const files = fs.readdirSync(pluginsDir).filter(file => file.endsWith('.js'));
@@ -36,9 +35,7 @@ var handler = async (m, { conn, usedPrefix, command }) => {
       response += '✅ ¡Todo está en orden! No se detectaron errores de sintaxis.';
     }
     await conn.reply(m.chat, response, m);
-    await m.react('✅');
   } catch (err) {
-    await m.react('✖️');
     console.error(err);
     await conn.reply(m.chat, '🚩 *Ocurrió un fallo al verificar los plugins.*', m);
   }
