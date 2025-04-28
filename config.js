@@ -20,12 +20,12 @@ global.suittag = ['593992402778'];
 global.prems = ['593995004980'];
 
 global.packname = '𝙂𝙤𝙠𝙪𝘽𝙤𝙩-𝙈𝘿 💖🌻';
-global.author = 'Sebas 🔰';
+global.author = 'Jostin';
 global.wm = 'Goku : Bot 🌹';
 global.sk = '𝗚oku : 𝗕𝗈𝗍';
 global.titulowm = '𝐆𝐨𝐤𝐮 - 𝐁𝐨𝐭';
-global.titulowm2 = `Sebas Oficial`
-global.igfg = 'Sebas';
+global.titulowm2 = `Jostin Oficial`
+global.igfg = 'Jostin';
 global.wait = '*⏳ 𝐄𝐬𝐩𝐞𝐫𝐞 𝐔𝐧 𝐌𝐨𝐦𝐞𝐧𝐭𝐨.....*';
 global.vs = '1.0 (beta)';
 
