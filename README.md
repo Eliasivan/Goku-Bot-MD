@@ -62,14 +62,14 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd GokuBot-MD
+> cd Goku-Bot-MD
 > npm start
 ```
 
 - ### Obtener Otro Codigo Qr👨‍💻 
 ```bash
 > ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd GokuBot-MD
+> cd Goku-Bot-MD
 > rm -rf sessions
 > npm start
 ```
